@@ -39,17 +39,17 @@
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/LucasSa04034571" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-LucasSa04034571-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/lucas-guimaraes-santana/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-lucas_santana-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/luk4s_dev/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-luk4s_dev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=LucasSa04034571&layout=wide&show_reply=off&show_retweet=off" />
+<img width="500em" src="https://github-readme-twitter.gazf.vercel.app/api?id=LucasSa04034571" />
 
 
 <!--
